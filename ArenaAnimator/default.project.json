@@ -1,9 +1,0 @@
-{
-  "name": "ArenaAnimator",
-  "tree": {
-    "$className": "Folder",
-    "ArenaAnimator": {
-      "$path": "src"
-    }
-  }
-}
